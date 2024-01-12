@@ -6,6 +6,11 @@ Connect with me:
 [![LinkedIn](https://simpleicons.org/icons/linkedin.svg)](https://www.linkedin.com/in/gaurav-kumar-jaiswal-4173a01b0/)
 [![Instagram](https://simpleicons.org/icons/instagram.svg)](https://www.instagram.com/gaurav_jaiswal010902/)
 
+My tech Stack:
+![Python](https://simpleicons.org/icons/python.svg)
+![Figma](https://simpleicons.org/icons/figma.svg)
+![Tensorflow](https://simpleicons.org/icons/tensorflow.svg)
+![Keras](https://simpleicons.org/icons/keras.svg)
 
 
 <!--
