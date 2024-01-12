@@ -1,4 +1,5 @@
-### Hi there, I am gaurav jaiswal and this is my official github account.As passionate developer working in the field of Data analytics and AI feel free to explore my account to get actual insights of my work  👋
+### Hi there, I am gaurav jaiswal and this is my official github account.
+As passionate developer working in the field of Data analytics and AI feel free to explore my account to get actual insights of my work  👋
 
 <!--
 **jaiswalgaurav012002/jaiswalgaurav012002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
