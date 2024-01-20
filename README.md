@@ -1,4 +1,4 @@
-<h1 align="center">Hi everyone!👋, I'm Gaurav Jaiswal and this is my official Github account</h1>
+<h1 align="center">Hi everyone!👋, I'm Gaurav Jaiswal and this is my official Github account!</h1>
 <h3 align="center">A passionate data analyst who vizualize and tinkers data on day to day basis.</h3>
 - 📫 How to reach me **jaiswalgaurav0120022outlook.com**
 <h3 align="left">Connect with me:</h3>
