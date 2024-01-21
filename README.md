@@ -49,19 +49,24 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
+<p align="center">
 
   <a href="https://github.com/jaiswalgaurav012002">
-  <img height="179em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jaiswalgaurav012002&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="280em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaiswalgaurav012002&theme=slateorange"/>
   </a>
   
 </p>
 
 <p align="left">
 <a href="https://github.com/jaiswalgaurav012002">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jaiswalgaurav012002&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="280em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaiswalgaurav012002&theme=slateorange"/>
+  <img height="280em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jaiswalgaurav012002&theme=slateorange"/>
+  <img height="280em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaiswalgaurav012002&theme=slateorange"/>
+  <img height="280em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaiswalgaurav012002&theme=slateorange&utcOffset=8"/>
 </a>
 </p>
+
+
 
 
 
