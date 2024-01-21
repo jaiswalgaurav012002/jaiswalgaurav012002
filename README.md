@@ -49,11 +49,14 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiswalgaurav012002&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jaiswalgaurav012002" /></p>
+### ⚙️ &nbsp;GitHub Analytics
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaiswalgaurav012002&show_icons=true&locale=en&theme=tokyonight" alt="jaiswalgaurav012002" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaiswalgaurav012002&&theme=tokyonight" alt="jaiswalgaurav012002" /></p>
+<p align="center">
+<a href="https://github.com/jaiswalgaurav012002">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jaiswalgaurav012002&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jaiswalgaurav012002&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 
 
