@@ -3,17 +3,16 @@
 
 <h1 align="center">Hi everyone!👋, I'm Gaurav Jaiswal and this is my official Github account!</h1>
 <h3 align="center">A passionate data analyst who vizualize and tinkers data on day to day basis.</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="" alt="arduino" width="40" height="40"/> </a> 
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">">
-
-
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswalgaurav012002&label=Profile%20views&color=0e75b6&style=flat" alt="gauravjaiswal" /> </p>
+
 - 📫 How to reach me **jaiswalgaurav0120022outlook.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gaurav-kumar-jaiswal-4173a01b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gaurav-kumar-jaiswal-4173a01b0/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/gaurav_jaiswal010902/" target="blank"><img align="center" src="com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/gaurav_jaiswal010902/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/gaurav-kumar-jaiswal-4173a01b0/" target="blank"><img align="center" src="![image](https://github.com/jaiswalgaurav012002/jaiswalgaurav012002/assets/91671123/7ae062b5-d0b4-4175-97e2-f4574b1bc69b)
+" alt="https://www.linkedin.com/in/gaurav-kumar-jaiswal-4173a01b0/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/gaurav_jaiswal010902/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="https://www.instagram.com/gaurav_jaiswal010902/" height="80" width="80" /></a>
 </p>
 
 
