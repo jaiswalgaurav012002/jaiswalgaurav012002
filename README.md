@@ -52,17 +52,17 @@
 <p align="center">
 
   <a href="https://github.com/jaiswalgaurav012002">
-  <img height="280em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaiswalgaurav012002&theme=slateorange"/>
+  <img height="260em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaiswalgaurav012002&theme=slateorange"/>
   </a>
   
 </p>
 
 <p align="center">
 <a href="https://github.com/jaiswalgaurav012002">
-  <img height="280em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaiswalgaurav012002&theme=slateorange"/>
-  <img height="280em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jaiswalgaurav012002&theme=slateorange"/>
-  <img height="280em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaiswalgaurav012002&theme=slateorange"/>
-  <img height="280em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaiswalgaurav012002&theme=slateorange&utcOffset=8"/>
+  <img height="260em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaiswalgaurav012002&theme=slateorange"/>
+  <img height="260em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jaiswalgaurav012002&theme=slateorange"/>
+  <img height="260em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaiswalgaurav012002&theme=slateorange"/>
+  <img height="260em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaiswalgaurav012002&theme=slateorange&utcOffset=8"/>
 </a>
 </p>
 
