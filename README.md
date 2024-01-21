@@ -7,11 +7,10 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswalgaurav012002&label=Profile%20views&color=0e75b6&style=flat" alt="gauravjaiswal" /> </p>
 
-- 📫 How to reach me **jaiswalgaurav0120022outlook.com**
+- 📫 How to reach me **jaiswalgaurav012002outlook.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gaurav-kumar-jaiswal-4173a01b0/" target="blank"><img align="center" src="![image](https://github.com/jaiswalgaurav012002/jaiswalgaurav012002/assets/91671123/7ae062b5-d0b4-4175-97e2-f4574b1bc69b)
-" alt="https://www.linkedin.com/in/gaurav-kumar-jaiswal-4173a01b0/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/gaurav-kumar-jaiswal-4173a01b0/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="https://www.linkedin.com/in/gaurav-kumar-jaiswal-4173a01b0/" height="80" width="80" /></a>
 <a href="https://instagram.com/https://www.instagram.com/gaurav_jaiswal010902/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="https://www.instagram.com/gaurav_jaiswal010902/" height="80" width="80" /></a>
 </p>
 
@@ -50,9 +49,16 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p align="left">
+
+  <a href="https://github.com/jaiswalgaurav012002">
+  <img height="179em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jaiswalgaurav012002&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  
+</p>
+
+<p align="left">
 <a href="https://github.com/jaiswalgaurav012002">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jaiswalgaurav012002&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jaiswalgaurav012002&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
