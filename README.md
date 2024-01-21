@@ -2,7 +2,8 @@
 
 <h1 align="center">Hi everyone!👋, I'm Gaurav Jaiswal and this is my official Github account!</h1>
 <h3 align="center">A passionate data analyst who vizualize and tinkers data on day to day basis.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.co.in/url?sa=i&url=https%3A%2F%2Faryng.com%2F&psig=AOvVaw2lKUQS2zLtaFf6ctreHrFv&ust=1705919671241000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNifjJWk7oMDFQAAAAAdAAAAABAj">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswalgaurav012002&label=Profile%20views&color=0e75b6&style=flat" alt="gauravjaiswal" /> </p>
 - 📫 How to reach me **jaiswalgaurav0120022outlook.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,7 +37,17 @@
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jyupter" width="40" height="40"/> </a>
 <a href="https://openai.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="Chat gpt" width="40" height="40"/> </a>
 
+
 </p>
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiswalgaurav012002&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jaiswalgaurav012002" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaiswalgaurav012002&show_icons=true&locale=en&theme=tokyonight" alt="jaiswalgaurav012002" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaiswalgaurav012002&&theme=tokyonight" alt="jaiswalgaurav012002" /></p>
+
 
 
 
