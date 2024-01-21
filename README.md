@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi everyone!👋, I'm Gaurav Jaiswal and this is my official Github account!</h1>
 <h3 align="center">A passionate data analyst who vizualize and tinkers data on day to day basis.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://www.google.co.in/url?sa=i&url=https%3A%2F%2Faryng.com%2F&psig=AOvVaw2lKUQS2zLtaFf6ctreHrFv&ust=1705919671241000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNifjJWk7oMDFQAAAAAdAAAAABAj">
 - 📫 How to reach me **jaiswalgaurav0120022outlook.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
