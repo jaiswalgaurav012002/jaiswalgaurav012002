@@ -57,7 +57,7 @@
   
 </p>
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/jaiswalgaurav012002">
   <img height="280em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaiswalgaurav012002&theme=slateorange"/>
   <img height="280em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jaiswalgaurav012002&theme=slateorange"/>
