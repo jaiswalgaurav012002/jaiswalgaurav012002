@@ -1,22 +1,31 @@
-![MasterHead](https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU4NzUzNjksIm5iZiI6MTcwNTg3NTA2OSwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTIxVDIyMTEwOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkwNzA4YTg2NmEzZGQ4Mzk3NWQyYjJmOWU4MWQ2OWRlNzVlZDhjMjc1Y2E5YmY1NDk3YjRhYTBjMDUwY2ZmZTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.AbP4tye5MFzdVg270N4qIxlFx2UmoObHlm03KWX0cKs)
+
+<p align="center"> <img src="https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU5MzcwODMsIm5iZiI6MTcwNTkzNjc4MywicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTIyVDE1MTk0M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc4NDcyZTk4NThkZGMzNzk1ZDI2Mzk1M2MxZTVmNGI2ODZhMmY2ZDU4Njk0MThhYWM5YWE4MmIyMDUwY2JmZDEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.rt2UnFYJL0VGs1H42GfuWR__H2IHTAR9CsYuWJfforw" alt="jaiswalgaurav012002" width="2000" height="500" /> </p>
 
 
 <h1 align="center">Hi everyone!👋, I'm Gaurav Jaiswal and this is my official Github account!</h1>
 <h3 align="center">A passionate data analyst who vizualize and tinkers data on day to day basis.</h3>
+<p align="center">
+  <a href="https://github.com/jaiswalgaurav012002">
+  <img height="40em" src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif"/>
+
+  </a>
+</p>
+
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswalgaurav012002&label=Profile%20views&color=0e75b6&style=flat" alt="gauravjaiswal" /> </p>
 
-- 📫 How to reach me **jaiswalgaurav012002outlook.com**
+- 📫 Reach me at **jaiswalgaurav012002outlook.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gaurav-kumar-jaiswal-4173a01b0/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="https://www.linkedin.com/in/gaurav-kumar-jaiswal-4173a01b0/" height="80" width="80" /></a>
 <a href="https://instagram.com/https://www.instagram.com/gaurav_jaiswal010902/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="https://www.instagram.com/gaurav_jaiswal010902/" height="80" width="80" /></a>
 </p>
 
+# Tech Stack <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
 
 
-<h3 align="left">Languages and Tools:</h3>
+
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="aws" width="40" height="40"/> </a>
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
@@ -44,8 +53,7 @@
 
 
 </p>
-
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="9000" height="2" />
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -56,6 +64,8 @@
   </a>
   
 </p>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="9000" height="2" />
+
 
 <p align="center">
 <a href="https://github.com/jaiswalgaurav012002">
