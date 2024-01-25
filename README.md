@@ -1,6 +1,6 @@
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" alt="jaiswalgaurav012002" width="200" height="200" /> 
-<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="jaiswalgaurav012002" width="200" height="200" /> </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" alt="jaiswalgaurav012002" width="300" height="300" /> 
+<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="jaiswalgaurav012002" width="300" height="300" /> </p>
 
 
 <h1 align="center">Hi everyone!👋, I'm Gaurav Jaiswal and this is my official Github account!</h1>
