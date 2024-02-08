@@ -16,7 +16,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswalgaurav012002&label=Profile%20views&color=0e75b6&style=flat" alt="gauravjaiswal" /> </p>
 
-- 📫 Reach me at @jaiswalgaurav012002outlook.com
+- 📫 Reach me at **@jaiswalgaurav012002outlook.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gaurav-kumar-jaiswal-4173a01b0/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="https://www.linkedin.com/in/gaurav-kumar-jaiswal-4173a01b0/" height="80" width="80" /></a>
